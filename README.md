@@ -35,7 +35,7 @@ songplays - records in event data associated with song plays. Columns for the ta
     songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent
 
 #### Dimension Tables
-
+![](https://cdn.jsdelivr.net/gh/lipengyuan1994/image-host@master/uPic/2022012917244216434950821643495082770uyESZ4paEyMt.png)
 ##### users
 
     user_id, first_name, last_name, gender, level
