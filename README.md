@@ -54,11 +54,9 @@ songplays - records in event data associated with song plays. Columns for the ta
 
 ## How to Run
 
-#### Use [Redshift\_Cluster\_IaC.py](https://github.com/san089/Data_Engineering_Projects/blob/master/Redshift_Cluster_IaC.py) from [Data\_Engineering\_Projects](https://github.com/san089/Data_Engineering_Projects) to launch Redshift Cluster.
-
 #### Setup Configurations
 
-The notebook whole_process has documented all steps needed for creating a Redshift cluster and deleting it.
+The notebook _**whole_process.ipynb**_ has documented all steps needed for creating a Redshift cluster and deleting it.
 
 Setup the dwh.cfg file (File not added in this repository). File format for **dwh.cfg**
 
